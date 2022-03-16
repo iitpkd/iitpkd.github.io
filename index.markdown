@@ -5,5 +5,5 @@
 layout: home
 ---
 
-- [M.Tech in Computing and Mathematics][./mcam]
-- [M.Tech in System-on-Chip Design][./msocd]
+- [M.Tech in Computing and Mathematics](./mcam)
+- [M.Tech in System-on-Chip Design](./msocd)
